@@ -7,9 +7,17 @@ body {
 
 section {
 	width: 90%;
-	max-width: 700px;
+	max-width: 500px;
 	background-color: #fff;
-	padding: 20px;
+	padding: 40px;
 	box-shadow: 2px 2px 5px #444;
 	margin: 20px auto;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+h1 {
+    color:crimson;
 }
