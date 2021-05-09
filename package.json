@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "lodash.mergewith": "^4.6.2",
-    "lodash": ">=4.17.19",
+    "lodash": ">=4.17.21",
     "fstream": ">=1.0.12",
     "tar": ">=2.2.2",
     "axios": ">=0.18.1",
